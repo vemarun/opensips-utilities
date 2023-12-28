@@ -24,6 +24,7 @@ sudo systemctl start opensips
 sudo systemctl status opensips
 
 # below command is for creating by default mysql database and tables
+# sudo apt install mariadb-server
 # opensips-cli -x database create opensips
 
 
